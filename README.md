@@ -18,6 +18,7 @@ A front-end clone of the Amazon homepage built using **HTML5** and **CSS3**. Thi
 
 - HTML5
 - CSS3
+- Java Script
 - Font Awesome
 
 ## Project Structure
