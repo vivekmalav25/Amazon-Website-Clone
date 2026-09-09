@@ -285,3 +285,30 @@ a{
     color: #dddddd;
     font-size: 0.8rem;
 }
+
+.nav-signin { position: relative; }
+.signin-dropdown {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background: white;
+    color: black;
+    border: 1px solid #ccc;
+    display: flex;
+    flex-direction: column;
+    min-width: 140px;
+    z-index: 10;
+}
+.signin-option {
+    padding: 8px 12px;
+    text-align: left;
+    background: none;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+.signin-option:hover { background: #eee; }
+
+
+
